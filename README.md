@@ -75,7 +75,9 @@ history - show commands
 !n - run nth command
 
 
- ###System & Process
+
+***System & Process
+ 
  
  
 top - process monitor
@@ -109,7 +111,7 @@ reboot - restart
 shutdown now - shutdown
 
 
-###Networking
+***Networking
 
 
 ifconfig - network info
@@ -135,7 +137,7 @@ scp file user@ip:/path - copy
 ftp ip - connect ftp
 
 
-###Permissions
+***Permissions
 
 
 chmod 777 file - full access
@@ -153,7 +155,7 @@ su - switch user
 passwd - change password
 
 
-### Package Management
+*** Package Management
 
 
 apt update - update repo
@@ -169,7 +171,7 @@ dpkg -i file.deb - install deb
 snap install pkg - snap install
 
 
-###⚡ Advanced Commands
+***⚡ Advanced Commands
 
 
 grep "text" file - search

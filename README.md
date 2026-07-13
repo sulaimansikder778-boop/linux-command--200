@@ -180,7 +180,7 @@ snap install pkg - snap install
 
 
 
-####⚡ Advanced Commands
+###⚡ Advanced Commands
 
 
 grep "text" file - search

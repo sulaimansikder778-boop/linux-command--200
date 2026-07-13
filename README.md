@@ -74,7 +74,9 @@ history - show commands
 
 !n - run nth command
 
+
  ###System & Process
+ 
  
 top - process monitor
 
@@ -106,7 +108,9 @@ reboot - restart
 
 shutdown now - shutdown
 
+
 ###Networking
+
 
 ifconfig - network info
 

@@ -1,6 +1,6 @@
 # linux-command--200*
 
-*🚀 Practice Daily = Become Linux Pro
+### 🚀 Practice Daily = Become Linux Pro
 
 ##3 More Commands (Continue Practice)
 
@@ -8,6 +8,7 @@ echo,   sleep,  yes,  cal, date, uptime, wc, sort, uniq, diff, comm, cut, paste,
 
 
 ### Terminal Shortcuts
+
 
 
 Ctrl + C - stop command
@@ -29,6 +30,7 @@ Ctrl + K - delete forward
 Ctrl + R - search history
 
 Tab - autocomplete
+
 
 
 ### Essential Linux Commands
@@ -75,6 +77,7 @@ history - show commands
 !n - run nth command
 
 
+
 ### System & Process
  
  
@@ -109,6 +112,8 @@ reboot - restart
 
 shutdown now - shutdown
 
+
+
 ### Networking
 
 
@@ -135,6 +140,8 @@ scp file user@ip:/path - copy
 ftp ip - connect ftp
 
 
+
+
 ### Permissions
 
 
@@ -153,6 +160,8 @@ su - switch user
 passwd - change password
 
 
+
+
 ### Package Management
 
 
@@ -167,6 +176,8 @@ apt remove pkg - remove
 dpkg -i file.deb - install deb
 
 snap install pkg - snap install
+
+
 
 
 ####⚡ Advanced Commands

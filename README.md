@@ -6,7 +6,9 @@
 
 echo,   sleep,  yes,  cal, date, uptime, wc, sort, uniq, diff, comm, cut, paste, tr, xargs, mount, umount, lsblk, fdisk, mkfs, fsck, dmesg, clear, reset, screen, tmux, nohup, jobs, bg, fg, kill, watch, strings, file, stat, basename, dirname, hostnamectl, timedatectl, journalctl, systemctl start/stop/restart/status
 
+
 ### Terminal Shortcuts
+
 
 Ctrl + C - stop command
 
@@ -28,7 +30,9 @@ Ctrl + R - search history
 
 Tab - autocomplete
 
+
 ### Essential Linux Commands
+
 
 ls - list files
 
@@ -126,7 +130,9 @@ scp file user@ip:/path - copy
 
 ftp ip - connect ftp
 
+
 ###Permissions
+
 
 chmod 777 file - full access
 
@@ -142,7 +148,9 @@ su - switch user
 
 passwd - change password
 
+
 ### Package Management
+
 
 apt update - update repo
 
@@ -156,7 +164,9 @@ dpkg -i file.deb - install deb
 
 snap install pkg - snap install
 
+
 ###⚡ Advanced Commands
+
 
 grep "text" file - search
 
